@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2
+Baseline (mean) - test,12.662,14.53,-0.005
+Linear Regression - train,12.208,14.211,0.029
+Linear Regression - test,12.976,15.015,-0.073

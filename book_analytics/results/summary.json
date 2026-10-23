@@ -1,0 +1,23 @@
+{
+  "n_books": 1000,
+  "n_genres": 50,
+  "price_mean": 35.07,
+  "price_median": 35.98,
+  "price_min": 10.0,
+  "price_max": 59.99,
+  "mean_rating": 2.92,
+  "in_stock_share": 1.0,
+  "corr_with_price": {
+    "rating": 0.028,
+    "stock_qty": -0.011,
+    "desc_word_count": 0.027,
+    "title_length": 0.007
+  },
+  "test_MAE": 12.976,
+  "test_RMSE": 15.015,
+  "test_R2": -0.073,
+  "baseline_MAE": 12.662,
+  "cv_R2_mean": -0.068,
+  "cv_R2_std": 0.011,
+  "n_features": 30
+}
