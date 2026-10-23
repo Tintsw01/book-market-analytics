@@ -1,4 +1,5 @@
 # Book Market Analytics: Books to Scrape (Data Science 500)
+https://github.com/Tintsw01/book-market-analytics/edit/main/book_analytics/README.md
 [Link Text Here](https://github.com/Tintsw01/book-market-analytics/edit/main/book_analytics/README.md)
 
 ## Run it
