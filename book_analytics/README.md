@@ -1,4 +1,5 @@
 # Book Market Analytics: Books to Scrape (Data Science 500)
+[Link Text Here](https://github.com/Tintsw01/book-market-analytics/edit/main/book_analytics/README.md)
 
 ## Run it
 1. `pip install -r requirements.txt` (Python 3.9+, internet connection needed for the first run).
